@@ -25,4 +25,4 @@ jobs:
           format: 'github'
           output: 'dependency-results.sbom.json'
           image-ref: '.'
-          github-pat: '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'
+          github-pat: '<github_pat_token>'
